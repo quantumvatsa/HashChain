@@ -1,5 +1,9 @@
 # NoobChain
 
-A simple BlockChain Mechanism created using Java
+A simple and unique HAsh framework using SHA256 in Java programming language
+
+//Share it happily! 
+
+
 
 
