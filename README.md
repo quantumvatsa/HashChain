@@ -1,4 +1,4 @@
-# NoobChain
+# HashChain
 A Simple Java Blockhain which helps in understanding the basic working of Hash in a Blockchain
 
 For educational purposes only.
