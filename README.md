@@ -1,9 +1,16 @@
 # NoobChain
+A Simple Java Blockhain which helps in understanding the basic working of Hash in a Blockchain
 
-A simple and unique HAsh framework using SHA256 in Java programming language
+For educational purposes only.
 
-//Share it happily! 
+# Requirements
 
+Basic understanding of Object Oriented Programming
+- JDK 1.8 and above
+- Ellipse (or similar IDE)
 
+# Contact
 
+I'm very responsive to messages only on Instagram
 
+*Instagram: https://instagr.am/vats__s*
