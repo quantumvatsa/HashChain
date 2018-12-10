@@ -1,1 +1,3 @@
 # NoobChain
+
+print "Hi"
